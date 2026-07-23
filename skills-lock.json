@@ -42,6 +42,12 @@
       "sourceType": "github",
       "skillPath": "higgsfield-websites/SKILL.md",
       "computedHash": "76b0f77dcf28cfecc93cb9a3e8f64ba08f3e79e9a4a34264f4ed65d0284f02aa"
+    },
+    "suno-music": {
+      "source": "acedatacloud/skills",
+      "sourceType": "github",
+      "skillPath": "skills/suno-music/SKILL.md",
+      "computedHash": "13e9ab0e96dcfc8994f3444b9c1ccc8065ef484b0340e8c408a3cbcf879a0c56"
     }
   }
 }
